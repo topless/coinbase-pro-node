@@ -13,7 +13,7 @@
   "description": "Unofficial Coinbase Pro API written in TypeScript and covered by tests.",
   "devDependencies": {
     "@types/jasmine": "3.5.0",
-    "@typescript-eslint/eslint-plugin": "2.15.0",
+    "@typescript-eslint/eslint-plugin": "2.28.0",
     "@typescript-eslint/parser": "2.15.0",
     "cross-env": "6.0.3",
     "dotenv": "8.2.0",
