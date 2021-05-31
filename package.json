@@ -8,7 +8,7 @@
     "axios": "0.19.1",
     "big.js": "5.2.2",
     "reconnecting-websocket": "wireapp/reconnecting-websocket#96ac796ae8c7a7d9d857f46ed39dbedd7b9ad378",
-    "ws": "7.2.1"
+    "ws": "7.4.6"
   },
   "description": "Unofficial Coinbase Pro API written in TypeScript and covered by tests.",
   "devDependencies": {
