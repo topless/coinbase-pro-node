@@ -222,10 +222,10 @@
   resolved "https://registry.npmjs.org/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
   integrity sha512-//oorEZjL6sbPcKUaCdIGlIUeH26mgzimjBB77G6XRgnDl/L5wOnpyBGRe/Mmf5CVW3PwEBE1NjiMZ/ssFh4wA==
 
-"@types/ws@6.0.4":
-  version "6.0.4"
-  resolved "https://registry.npmjs.org/@types/ws/-/ws-6.0.4.tgz#7797707c8acce8f76d8c34b370d4645b70421ff1"
-  integrity sha512-PpPrX7SZW9re6+Ha8ojZG4Se8AZXgf0GK6zmfqEuCsY49LFDNXO3SByp44X3dFEqtB73lkCDAdUazhAjVPiNwg==
+"@types/ws@7.4.6":
+  version "7.4.6"
+  resolved "https://registry.npmjs.org/@types/ws/-/ws-7.4.6.tgz#c4320845e43d45a7129bb32905e28781c71c1fff"
+  integrity sha512-ijZ1vzRawI7QoWnTNL8KpHixd2b2XVb9I9HAqI3triPsh1EC0xH0Eg6w2O3TKbDCgiNNlJqfrof6j4T2I+l9vw==
   dependencies:
     "@types/node" "*"
 
